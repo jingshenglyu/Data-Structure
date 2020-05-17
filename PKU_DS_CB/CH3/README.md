@@ -1,18 +1,15 @@
-# Chapter 3 Algorithms Analyse
+# Chapter 3 Basic Data Type
 
-## 3.1 Why algorithms analyse?
+## 3.1 Abstract Data Type(ADT)
 
-Using the different algorithms we can get a good algorithm or a bad algorithm. But the bad algorithms cost too lang time, such as many years. We don't use it.
+#### 3.1.1 Stack  
+#### 3.1.2 Queue  
+#### 3.1.3 Deque 
+#### 3.1.4 List
 
-## 3.2 Using "O" to describe time
-We use "O" to describe "Time complexity".
-####    3.2.1 O(Assignment Statement) = 1
-####    3.2.2 O(Iteration(n) Statement) = n  
+## 3.2 Select the right ADT
+ 
 
-## 3.3 Affect
-"Time complexity is the standard for how to judge an algorithm.
+## 3.3 list() -> linked list()
 
-## 3.4 How to calculate "execution time"
-####    Code 2.1: algorithms with VS without iteration
-####    Code 2.2: Compare 4 algorithms about anagram
-####    Code 2.3: Time Complexity for list() and dict()
+## 3.4 list() VS linked list()
