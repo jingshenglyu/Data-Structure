@@ -13,6 +13,6 @@ We use "O" to describe "Time complexity".
 "Time complexity is the standard for how to judge an algorithm.
 
 ## 3.4 How to calculate "execution time"
-Code 2.1: algorithms with VS without iteration
-Code 2.2: Compare 4 algorithms about anagram
-Code 2.3: Time Complexity for list() and dict()
+####    Code 2.1: algorithms with VS without iteration
+####    Code 2.2: Compare 4 algorithms about anagram
+####    Code 2.3: Time Complexity for list() and dict()
