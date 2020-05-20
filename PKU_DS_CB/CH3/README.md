@@ -3,6 +3,7 @@
 ## 3.1 Abstract Data Type(ADT)
 
 #### 3.1.1 Stack  
+LIFO:last input first output
 #### 3.1.2 Queue  
 #### 3.1.3 Deque 
 #### 3.1.4 List
