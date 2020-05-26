@@ -4,7 +4,8 @@
 
 #### 3.1.1 Stack  
 LIFO:last input first output
-#### 3.1.2 Queue  
+#### 3.1.2 Queue
+FIFO:first input first output  
 #### 3.1.3 Deque 
 #### 3.1.4 List
 
